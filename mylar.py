@@ -3,7 +3,7 @@ import csv
 import time
 
 # Define the COM port and baud rate
-com_port = "/dev/cu.usbmodem12301"  # replace with your device's name
+com_port = "/dev/cu.usbmodem12201"  # replace with your device's name
 baud_rate = 9600  # replace with the baud rate you're using
 
 # Open the serial port
